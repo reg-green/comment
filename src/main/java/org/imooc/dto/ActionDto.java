@@ -4,4 +4,5 @@ import org.imooc.bean.Action;
 
 public class ActionDto extends Action {
 
+
 }
